@@ -20,7 +20,7 @@ To handle the state-space explosion inherent in Poker environments, the engine i
 This project uses CMake for cross-platform compilation.
 
 **1. Clone the repository:**
-`git clone https://github.com/yourusername/cfr-poker-engine.git`
+`git clone https://github.com/saku-25/cfr-poker-engine.git`
 `cd cfr-poker-engine`
 
 **2. Configure and Build (Release Mode for Maximum Speed):**
