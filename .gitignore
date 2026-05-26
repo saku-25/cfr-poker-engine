@@ -1,0 +1,18 @@
+# CMake build directories
+build/
+Debug/
+Release/
+
+# Executables and compiled objects
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio / VS Code folders
+.vscode/
+.vs/
+
+# Serialized Model Weights
+*.csv
+*.bin
